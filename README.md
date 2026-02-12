@@ -2,7 +2,7 @@
 
 I’m a Senior Product Manager turned hands-on builder, working at the intersection of **product strategy, platforms, APIs, and execution**.
 
-I focus on designing and shipping scalable systems — from data platforms to web and mobile products — always with a strong bias toward **clarity, fundamentals, and long-term impact**.
+I focus on designing and shipping scalable systems, from data platforms to web and mobile products — always with a strong bias toward **clarity, fundamentals, and long-term impact**.
 
 Outside of tech, I’m a **black belt in Brazilian Jiu-Jitsu** 🥋.  
 That mindset shapes how I work: fundamentals first, constant pressure, calm decision-making, and clean execution.
